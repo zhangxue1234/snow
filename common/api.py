@@ -4,3 +4,6 @@
 """
 def getOrder(x):
     return x
+
+a = getOrder(1)
+print(a)
