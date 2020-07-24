@@ -13,4 +13,4 @@ b = re.json()
 print(type(b))
 # result =
 # print(result)
-print(b.get("accessToken"))
+print(b)

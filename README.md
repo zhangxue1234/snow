@@ -1,2 +1,2 @@
 # snow
-用于测试api
+学习python基础知识
